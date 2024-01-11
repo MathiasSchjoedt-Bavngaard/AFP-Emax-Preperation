@@ -4,5 +4,3 @@
 #load "Library.fs"
 open MorseCode
 
-// Define your library scripting code here
-
