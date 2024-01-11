@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MorseCode", "MorseCode\MorseCode.fsproj", "{DB25CDDD-5D11-4A03-B388-D30C1CCA61A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB25CDDD-5D11-4A03-B388-D30C1CCA61A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB25CDDD-5D11-4A03-B388-D30C1CCA61A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB25CDDD-5D11-4A03-B388-D30C1CCA61A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB25CDDD-5D11-4A03-B388-D30C1CCA61A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
